@@ -1,0 +1,15 @@
+{
+  "mod": "TESMIOINDUSTRY",
+  "build_passed": true,
+  "machine_code_identical": true,
+  "binary_identical_except_timestamps": true,
+  "timestamp_offsets": [
+    "0x100",
+    "0x4ed14"
+  ],
+  "original_sha256": "675cc2857f42f525f78bd5f56411fe0a1258ef2197d645825eec77f486104e82",
+  "rebuilt_sha256": "b01cfeed32e7412fbc7c4e7d801a094b5acb0e09aac0db8e7ccd00efc343122c",
+  "normalized_sha256": "406eada1d2c0ec05d5b9824179a3db526e73884269acf5c5b8fd653bf0e4ccbf",
+  "native_regression": "not run",
+  "live_game_test": "not run"
+}
